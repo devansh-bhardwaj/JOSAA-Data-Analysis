@@ -18,11 +18,11 @@ Requirements for the website to work
 
 Follow the steps
 
-    git clone https://github.com/subb16/JOSAA-Analaysis-DA215.git in the htdocs folder of XAMPP
+    git clone https://github.com/devansh-bhardwaj/JOSAA-Data-Analysis.git in the htdocs folder of XAMPP
     Start apache and MySQL from the Xampp control panel
     Create a user with username "devanshu" and password "passwords" on phpmyadmin
     Import the database mydb.sql as mydb
-    Open http://localhost/JOSAA-Analaysis-DA215/index.html in your browser
+    Open http://localhost/JOSAA-Data=Analysis/index.html in your browser
 
 This will open the homepage of the website. Now you can navigate through and select the option you want to choose.
 ![Screenshot 2023-05-18 231127](https://github.com/subb16/JOSAA-Analaysis-DA215/assets/66398108/fa7b5536-01ab-4fec-965f-b5bb9d559921)

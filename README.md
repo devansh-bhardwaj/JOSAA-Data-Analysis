@@ -22,7 +22,7 @@ Follow the steps
     Start apache and MySQL from the Xampp control panel
     Create a user with username "devanshu" and password "passwords" on phpmyadmin
     Import the database mydb.sql as mydb
-    Open http://localhost/JOSAA-Data=Analysis/index.html in your browser
+    Open http://localhost/JOSAA-Data-Analysis/index.html in your browser
 
 This will open the homepage of the website. Now you can navigate through and select the option you want to choose.
 ![Screenshot 2023-05-18 231127](https://github.com/subb16/JOSAA-Analaysis-DA215/assets/66398108/fa7b5536-01ab-4fec-965f-b5bb9d559921)
